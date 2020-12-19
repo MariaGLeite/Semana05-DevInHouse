@@ -1,0 +1,38 @@
+{
+  "name": "devinhouse-s05",
+  "version": "0.1.0",
+  "description": "Projeto de cadastro de alunos. Semana 05 DevInHouse",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-feather": "^2.0.8",
+    "react-scripts": "4.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "animate-css-styled-components": "^1.0.2"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

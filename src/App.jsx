@@ -1,13 +1,12 @@
 import React from 'react';
 import { GlobalStyles } from "./assets/globalStyles";
+import Content from './page';
 
 const App = () => {
   return (
     <>
       <GlobalStyles />
-
-      <h1>Inital commit</h1>
-      <p>(Estruturação de pastas)</p>
+      <Content />
     </>
   );
 }
